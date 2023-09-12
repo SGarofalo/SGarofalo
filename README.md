@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 👋 Soy Sol, una apasionada estudiante de programación y analista funcional que vive en Argentina. Mi viaje en el mundo de la tecnología comenzó en la UTN. <br> Constantemente busco aprender nuevas tecnologías y mejorar mis habilidades, porque creo que el aprendizaje continuo es la clave para el éxito en este emocionante campo.<br><br>Siempre estoy dispuesta a colaborar, compartir conocimientos y aprender de la comunidad GitHub. ¡Conéctate conmigo y juntas podemos crear un futuro tecnológico brillante!<br><br>¡Hablemos de código! 💻✨
+¡Hola! 👋 Soy Sol, una apasionada estudiante de programación y analista funcional que vive en Argentina. Mi viaje en el mundo de la tecnología comenzó en la UTN. <br> Constantemente busco aprender nuevas tecnologías y mejorar mis habilidades, porque creo que el aprendizaje continuo es la clave para el éxito en este emocionante campo.<br><br>Siempre estoy dispuesta a colaborar, compartir conocimientos y aprender de la comunidad GitHub. <br><br>¡Hablemos de código! 💻✨
 
 
 ## 🌐 Socials:
